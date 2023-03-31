@@ -28,6 +28,7 @@ public class PartTimeWage {
                     System.out.println(salary);
 
                 }
+
                 break;
 
             //Default case statement
