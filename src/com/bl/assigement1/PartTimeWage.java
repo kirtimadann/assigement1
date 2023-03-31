@@ -19,7 +19,7 @@ public class PartTimeWage {
                     System.out.println("Employee FullTime Salary : ");
                     System.out.println(salary);
                 }
-                break;  //optional
+                break;  //
             case 2:
                 if (isParttime == 1) {
                     emphrs = 8;
